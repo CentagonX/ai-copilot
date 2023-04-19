@@ -1,0 +1,17 @@
+{
+    "prompts": [
+        {   
+            "id" : "1",
+            "roles": [
+                {
+                    "role":  "system", 
+                    "content": "Act like a security engineer working a large cyber security company such as Palo Alto."
+                },
+                {
+                    "role":  "user", 
+                    "content": "What are are the top security data risk behaviour in the cloud? Do not explain ..Just list them as a table."
+                }
+            ]
+        }
+    ]
+}
