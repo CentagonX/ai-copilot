@@ -1,0 +1,176 @@
+Received: from PH0PR10MB4423.namprd10.prod.outlook.com (2603:10b6:510:40::14)
+ by SJ0PR10MB4640.namprd10.prod.outlook.com with HTTPS; Thu, 12 Jan 2023
+ 15:59:08 +0000
+Received: from DM6PR02CA0074.namprd02.prod.outlook.com (2603:10b6:5:1f4::15)
+ by PH0PR10MB4423.namprd10.prod.outlook.com (2603:10b6:510:40::14) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6002.12; Thu, 12 Jan
+ 2023 15:59:06 +0000
+Received: from DM6NAM10FT087.eop-nam10.prod.protection.outlook.com
+ (2603:10b6:5:1f4:cafe::d8) by DM6PR02CA0074.outlook.office365.com
+ (2603:10b6:5:1f4::15) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6002.14 via Frontend
+ Transport; Thu, 12 Jan 2023 15:59:06 +0000
+Received: from us1-emailsignatures-cloud.codetwo.com (20.98.2.159) by
+ DM6NAM10FT087.mail.protection.outlook.com (10.13.153.157) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.5986.18 via Frontend Transport; Thu, 12 Jan 2023 15:59:06 +0000
+Received: from NAM12-BN8-obe.outbound.protection.outlook.com (104.47.55.176) by us1-emailsignatures-cloud.codetwo.com with CodeTwo SMTP Server (TLS12) via SMTP; Thu, 12 Jan 2023 15:59:05 +0000
+Received: from SJ0PR10MB4640.namprd10.prod.outlook.com (2603:10b6:a03:2af::24)
+ by IA1PR10MB6709.namprd10.prod.outlook.com (2603:10b6:208:41a::18) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6002.10; Thu, 12 Jan
+ 2023 15:59:04 +0000
+Received: from SJ0PR10MB4640.namprd10.prod.outlook.com
+ ([fe80::f89f:b39a:88e3:9a30]) by SJ0PR10MB4640.namprd10.prod.outlook.com
+ ([fe80::f89f:b39a:88e3:9a30%4]) with mapi id 15.20.6002.012; Thu, 12 Jan 2023
+ 15:59:03 +0000
+From: Samantha Winkle x23045 <swinkle@forthepeople.com>
+To: "ssutton@circuit5.org" <ssutton@circuit5.org>
+CC: Ruth Smith <Ruth.Smith@rissman.com>, ": David Kuhn"
+	<David.Kuhn@rissman.com>, Samantha Winkle x23045 <swinkle@forthepeople.com>
+Subject: 35-2021-CA-001778-AXXX-XX Horton, Tracy vs Taintor, Margaret
+Thread-Topic: 35-2021-CA-001778-AXXX-XX Horton, Tracy vs Taintor, Margaret
+Thread-Index: AdkmnlfKAVvGMKMJRLWDzlxda7n2Rw==
+Date: Thu, 12 Jan 2023 15:59:03 +0000
+Message-ID:
+	<SJ0PR10MB46405A083A0272017A686F57D5FD9@SJ0PR10MB4640.namprd10.prod.outlook.com>
+References:
+	<2f08b6c6-6a7b-4d2e-9917-1c1084458d1c.a8ecc3b3-6542-4515-92cd-95d549654576.2bc61c06-1080-4729-acab-c7345f25885d@emailsignatures365.codetwo.com>
+ <2f08b6c6-6a7b-4d2e-9917-1c1084458d1c.27a142a5-09c7-4c13-8322-0371aa0edf75.adc357e7-699d-4054-8ef4-fa71a57b90bb@emailsignatures365.codetwo.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: SJ0PR10MB4640.namprd10.prod.outlook.com
+X-MS-Exchange-Organization-ComplianceLabelId:
+	33918377-4f8b-44a9-bd38-48e6f554a272
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	8716103d-a104-49de-9a3f-08daf4b5ef1f
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+authentication-results: spf=pass (sender IP is 20.98.2.159)
+ smtp.mailfrom=forthepeople.com; dkim=none (message not signed)
+ header.d=none;dmarc=pass action=none header.from=forthepeople.com;
+received-spf: Pass (protection.outlook.com: domain of forthepeople.com
+ designates 20.98.2.159 as permitted sender) receiver=protection.outlook.com;
+ client-ip=20.98.2.159; helo=us1-emailsignatures-cloud.codetwo.com; pr=C
+x-ms-publictraffictype: Email
+x-forefront-antispam-report:
+	CIP:20.98.2.159;CTRY:US;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKI;H:us1-emailsignatures-cloud.codetwo.com;PTR:us1-emailsignatures-cloud.codetwo.com;CAT:NONE;SFS:;DIR:INB;
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(425001)(930097);
+X-Microsoft-Antispam-Message-Info:
+	A1IfEoiFQ9K1NcrUbC3Rj/804wE3IlANXq7LOX+qvZB5vnqPtUQfjXPf7w6vIFpgHPQbVD9z44yY+UVqPRfk1hYjURlzfhfMZRpqqs7JQKzi0x2rs7BlpglleJ8B0dg5gTZ/DcBOkdm+i7XPUe4jpPRlF9b77lCL0AE12D4wIREINmW/cxiBpXxFFW15Xi6F3d6l3y/uOfe0S9LoOmjV3w7n/iOxdv4NI5rJ9Nq+Ghupn9zd5HjX97aGFRnmZ/+wmOhwXYR8zeGy2mdWWhe40P2laRfKU5u6DOCO9rlIxfmvKfFieNewoaLx/RA6LuHRXRN1tRGUYbuSecmzm/gdDzz3CuYCQH2YgLSdg7JgfnpGvjrVxY4v+fg0KARejmf2fQpR7l2x9X+o6oBper6U2dSpumleHnLjh59kC9Gq/Qe+bkQLeRCQgVcdJuAyirUNWj6ZRL/rUzv/0BDObdW6xJUtky6CI38CHIsW3F4tZAWDArieMNEwRlEHH+A1RIurolBnMquzwHOEalB6u0dDScvk0cgGAQt1ckOSMfNLKoDKNwstROutK7nP/SzSvhxL0OIcIrWdKmt5TKolKq0hMTiR5XcWnCOEddUKW1fTiheZ5387HBJDGz5KxZFTaL3E56cKCwoYnN3Un1ZCMtHCYUh6qiuSqSDByAN0BiN2WaOzzRAJb45r6LaLGj0kSSzZ12iaUIwk2e2JJMC8ww+GJIkc3kio2ZhKB2UtWN5Hk/X1uhBEcbddpGz7HSF6JgKjV0fAOfjOtHHPCIQnyy/I8wkgarZlrT3atT/KFBjRuxWe2EbCGvhIdBCmdNKWAXh9KB7Z4ohiEOsNE6HwbO7fhQ==
+Content-Type: multipart/alternative;
+	boundary="_000_SJ0PR10MB46405A083A0272017A686F57D5FD9SJ0PR10MB4640namp_"
+MIME-Version: 1.0
+
+--_000_SJ0PR10MB46405A083A0272017A686F57D5FD9SJ0PR10MB4640namp_
+Content-Type: text/plain; charset="us-ascii"
+
+35-2021-CA-001778-AXXX-XX
+Good morning Ms. Sutton,
+
+Parties in the above case have met and conferred on Plaintiff's Motion for Leave to File Amended Complaint, and we are requesting the Court's availability for a 15-minute hearing on the matter.
+
+Could you please kindly provide Judge Takac's hearing availability?
+
+Respectfully requested,
+
+Samantha Winkle
+Litigation Paralegal
+
+P: (689) 219-2014
+F: (689) 219-2114
+A: 20 N Orange Ave, Suite 1600, Orlando, FL 32801
+
+[https://static.forthepeople.com/signatures/email-signature-mm-ftp-logo-x2.jpg]<https://www.forthepeople.com/>
+________________________________
+[https://static.forthepeople.com/signatures/email-signature-practice-areas-x2.jpg]<https://www.forthepeople.com/practice-areas/> [https://static.forthepeople.com/signatures/email-signature-locations-x2.jpg] <https://www.forthepeople.com/office-locations/>  [https://static.forthepeople.com/signatures/email-signature-attorneys-x2.jpg] <https://www.forthepeople.com/attorneys/>  [https://static.forthepeople.com/signatures/email-signature-results-x2-2022-no-line.jpg] <https://www.forthepeople.com/verdict-magazine-pdf/?utm_source=signature&utm_medium=email>
+
+A referral is the best compliment. If you know anyone that needs our help, please have them call our office 24/7.
+
+
+CONFIDENTIALITY NOTICE: This e-mail message including attachments, if any, is intended for the person or entity to which it is addressed and may contain confidential and/or privileged material. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply e-mail and destroy all copies of the original message. Thank you.
+
+--_000_SJ0PR10MB46405A083A0272017A686F57D5FD9SJ0PR10MB4640namp_
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="#0563C1" vlink="#954F72" style="word-wrap:break-word">
+<div class="WordSection1">
+<p class="MsoNormal"><b>35-2021-CA-001778-AXXX-XX <o:p></o:p></b></p>
+<p class="MsoNormal">Good morning Ms. Sutton,<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">Parties in the above case have met and conferred on Plaintiff&#8217;s Motion for Leave to File Amended Complaint, and we are requesting the Court&#8217;s availability for a 15-minute hearing on the matter.
+<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">Could you please kindly provide Judge Takac&#8217;s hearing availability?<br>
+<br>
+Respectfully requested,<o:p></o:p></p>
+</div>
+<font color="#000000">
+<p style="FONT-SIZE: 10pt; FONT-FAMILY: Calibri"><strong>Samantha Winkle </strong>
+<br>
+Litigation Paralegal <br>
+<br>
+<strong>P:</strong> (689) 219-2014 <br>
+<strong>F:</strong> (689) 219-2114 <br>
+<strong>A:</strong> 20 N Orange Ave, Suite 1600, Orlando, FL 32801 </p>
+<a href="https://www.forthepeople.com/"><img border="0" src="https://static.forthepeople.com/signatures/email-signature-mm-ftp-logo-x2.jpg" width="130" height="30"></a>
+<hr align="left" width="335">
+<a href="https://www.forthepeople.com/practice-areas/"><img border="0" src="https://static.forthepeople.com/signatures/email-signature-practice-areas-x2.jpg" width="86" height="16"></a>
+<a href="https://www.forthepeople.com/office-locations/"><img border="0" src="https://static.forthepeople.com/signatures/email-signature-locations-x2.jpg" width="68" height="16"></a>
+<a href="https://www.forthepeople.com/attorneys/"><img border="0" src="https://static.forthepeople.com/signatures/email-signature-attorneys-x2.jpg" width="69" height="16"></a>
+<a href="https://www.forthepeople.com/verdict-magazine-pdf/?utm_source=signature&amp;utm_medium=email">
+<img border="0" src="https://static.forthepeople.com/signatures/email-signature-results-x2-2022-no-line.jpg" width="106" height="16"></a>
+</font><br>
+<p style="FONT-SIZE: 10pt; FONT-FAMILY: Calibri"><font color="#2d2d2d"><em>A referral is the best compliment. If you know anyone that needs our help, please have them call our office 24/7.&nbsp;</em></font>
+<br>
+<br>
+</p>
+<p style="FONT-SIZE: 10pt; MARGIN-BOTTOM: 5pt; FONT-FAMILY: ARIAL; MARGIN-TOP: 0pt">
+CONFIDENTIALITY NOTICE: This e-mail message including attachments, if any, is intended for the person or entity to which it is addressed and may contain confidential and/or privileged material. Any unauthorized review, use, disclosure or distribution is prohibited.
+ If you are not the intended recipient, please contact the sender by reply e-mail and destroy all copies of the original message. Thank you.
+</p>
+</body>
+</html>
+
+--_000_SJ0PR10MB46405A083A0272017A686F57D5FD9SJ0PR10MB4640namp_--

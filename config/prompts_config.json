@@ -12,6 +12,20 @@
                     "content": "What are are the top security data risk behaviour in the cloud? Do not explain ..Just list them as a table."
                 }
             ]
+        },
+        {
+            "id": "2",
+            "roles": [
+                {
+                    "role":  "system",
+                    "content": "You are a senior security analyst. You are looking at a risk logs of a customer where each log line in the risk log follows the following fields in json structure: {}"
+                },
+                {
+                    "role":  "user",
+                    "content": "Describe this risk in plain text. Ensure the description contains impact and likelihood '{}'"
+                }
+            ]
+
         }
     ]
 }
