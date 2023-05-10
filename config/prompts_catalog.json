@@ -1,0 +1,13 @@
+{
+    "prompts" : [
+        "What are the top high risks in environment?",
+        "What are the risks in my Amazon Web Services (AWS) 'us-west-1' region that are considered high risk and associated with IAM users?",
+        "What are the risks in my Amazon Web Services (AWS) 'us-east-2' region that are considered high risk and associated with IAM users?",
+        "What are the risks in my Amazon Web Services (AWS) 'us-west-1' region tagged with AWS-CIS-v1.5?",
+        "What are the risks in my Amazon Web Services (AWS) 'us-east-2' region tagged with AWS-CIS-v1.5?",
+        "What are the risks associated with user abhinav+aws+demo@normalyze.ai?",
+        "What are the risks last updated on or after March 11, 2023?",
+        "What are the top risks associated with account id 664559205688?",
+        "What are the risks that are currently open and active?"
+    ]
+}

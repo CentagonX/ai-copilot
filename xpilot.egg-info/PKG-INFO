@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: xpilot
+Version: 0.0.1
+Summary: A library to build LLM apps
+Author-email: Mahendra Kutare <m@centagonx.com>
+Project-URL: Homepage, https://github.com/pypa/xpilot
+Project-URL: Bug Tracker, https://github.com/pypa/xpilot/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Xpilot
+
+A library to build LLM apps

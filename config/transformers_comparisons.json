@@ -1,0 +1,13 @@
+{
+    "transformers" : [
+        "all-MiniLM-L6-v2",
+        "bert-base-nli-mean-tokens",
+        "msmarco-distilbert-base-tas-b",
+        "all-roberta-large-v1",
+        "all-mpnet-base-v2"
+    ],
+    "comparisions" : [
+        "cos_sim",
+        "dot_product"
+    ]
+}

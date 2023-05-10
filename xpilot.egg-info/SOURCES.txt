@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+xpilot.egg-info/PKG-INFO
+xpilot.egg-info/SOURCES.txt
+xpilot.egg-info/dependency_links.txt
+xpilot.egg-info/top_level.txt
+xpilot/vector/__init__.py
+xpilot/vector/pinecone/__init__.py
+xpilot/vector/pinecone/pinecone_service.py
+xpilot/vector/pinecone/query_pinecone_embeddings.py
