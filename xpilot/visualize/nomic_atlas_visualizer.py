@@ -27,7 +27,7 @@ def atlas_visualize_embeddings(index, id_list, name_space):
 if __name__ == '__main__':
     
     load_dotenv()
-    pinecone_service.init_pinecone()
+    pinecone_env = pinecone_service.init()
     init_nomic()
     index = pinecone_service.get_index(pinecone_service.list_indexes()[0])
     print (index)
