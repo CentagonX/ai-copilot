@@ -1,3 +1,3 @@
 # Xpilot
 
-A library to build LLM apps
+A library to build custom LLM, agents, and natural language querying infrastructure
