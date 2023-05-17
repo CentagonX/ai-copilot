@@ -15,7 +15,7 @@ def atlas_visualize_embeddings(index, id_list, name_space):
   
   ids = []
   embeddings = []
-  vectors = pinecone_service.fetch_embeddings(index, id_list, name_space)
+  vectors = pinecone_service.fetch_embeddings_from_index(index, id_list, name_space)
   for id, vector in vectors['vectors'].items():
       ids.append(id)
       embeddings.append(vector['values'])
