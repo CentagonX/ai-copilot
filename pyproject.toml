@@ -4,7 +4,7 @@ version = "0.0.1"
 authors = [
   { name="Mahendra Kutare", email="m@centagonx.com" },
 ]
-description = "A library to build LLM apps"
+description = "A library to build custom LLM, agents, and natural language query infrastructure"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
