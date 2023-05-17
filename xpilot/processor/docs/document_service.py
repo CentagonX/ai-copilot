@@ -42,7 +42,7 @@ def pdf_to_json(key, public_url):
         print("-----Ending PDF to JSON\n")
         return docs
 
-def query_docs_for_prompts(pinecone_config_path, prompts_catalog_path):
+def search_relevant_docs_for_prompts(pinecone_config_path, prompts_catalog_path):
 
     load_dotenv()
     pinecone_env = pinecone_service.init_pinecone()
